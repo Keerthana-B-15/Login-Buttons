@@ -44,4 +44,4 @@ The buttons are visually enhanced using CSS and have hover effects for a better 
 - `styles.css`: Houses the CSS styles that govern the visual design of the elements.
   
 ## Contributing
-Feel free to make valuable contributions to this project!
+Feel free to make valuable contributions to this project!More details on the contribution process will be provided in a separate section.
